@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoghmanAlizada&label=Profile%20views&color=0e75b6&style=flat" alt="LoghmanAlizada" /> </p>
 <h2>Hi, I'm <strong>Loghman Alizada</strong></h2>
 <hr>
 <h3>I'm currently studiyng at Azerbaijan Technical University</h3>
