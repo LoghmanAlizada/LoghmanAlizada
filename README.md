@@ -1,4 +1,4 @@
-<h2>Hi, I'm <strong>Loghman Alizada</strong></h2>
+
 <hr>
 <h3>I'm currently studiyng at Azerbaijan Technical University</h3>
 
