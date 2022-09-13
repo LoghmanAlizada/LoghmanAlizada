@@ -61,19 +61,6 @@
     <a href="#"><img alt="Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white&style=plastic"></a>
 </p>
 
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme -stat-->
-  <br/>
-    <a href="#" style="width:100px"><img alt="LoghmanAlizada's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=LoghmanAlizada&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="#"><img alt="LoghmanAlizada's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoghmanAlizada&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <br/>
-  <div align="center">
-  <img  src="https://profile-counter.glitch.me/{LoghmanAlizada}/count.svg"/>
-  </div>
-  <h2>⚡ Recent GitHub Activity</h2>
-
 <br>
 <a href="http://www.github.com/LoghmanAlizada"><img src="https://activity-graph.herokuapp.com/graph?username=LoghmanAlizada&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <br>
